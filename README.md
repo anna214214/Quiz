@@ -10,11 +10,11 @@
   - learn.py
   - Analytics.py
 
-- To initiate the Quiz, execute the script Quiz_exe.py.
+- To start the Quiz, run the script: Quiz_exe.py.
 
-- Verify that you have the required libraries installed:
+- Make sure the following Python libraries are installed::
   - sqlalchemy
   - matplotlib
 
-- If they are not installed, you can install them using:
+- If any of the required libraries are missing, you can install them using pip:
   - pip install sqlalchemy matplotlib
